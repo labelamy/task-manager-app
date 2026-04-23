@@ -57,3 +57,20 @@ task-manager/
 ├── backend/
 │ ├── server.js
 │ ├── package.json
+
+---
+## Objectifs pédagogiques
+
+Ce projet m’a permis de :
+
+* Comprendre une architecture client / serveur
+* Créer une API REST avec Node.js
+* Manipuler des requêtes HTTP (GET, POST, PUT, DELETE)
+* Gérer l’asynchronisme en JavaScript (fetch / async-await)
+* Structurer un projet fullstack
+
+---
+##  Auteur
+Nom : ABO Komi
+GitHub : https://github.com/labelamy
+  
